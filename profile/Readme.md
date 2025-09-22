@@ -18,5 +18,5 @@
 - chandu078 for his work on Oneplus Pineapple platform
 - Luk1337, Cyberknight777, Maitreya25 and pjgowtham for guidance/help
 - LXD_PRINCE and av for testing
-- and everyone else who contributed but I forgot
+- and everyone else who contributed but I forgot to mention here
   
