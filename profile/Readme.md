@@ -29,7 +29,6 @@
 | Audio & Audio Control | ✅ Working |
 | Auto Brightness | ✅ Working |
 | Bluetooth | ✅ Working |
-| Storage | ✅ Working |
 | Rear Camera | ✅ Working |
 | Front Camera | ✅ Working |
 | Ultrawide Camera | ✅ Working |
@@ -42,7 +41,7 @@
 | OTG | ✅ Working |
 | USB Tethering | ✅ Working |
 | Vibration | ✅ Working |
-| VoLTE | ✅ Working |
+| VoLTE and VoNR | ✅ Working |
 | Wi-Fi | ✅ Working |
 | Calling | ✅ Working |
 | Screen Recording | ✅ Working |
