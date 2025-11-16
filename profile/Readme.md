@@ -2,24 +2,8 @@
 
 ---
 
-## Device Sources
-
-### **Device Trees**
-- [device/oneplus/sm8650-common](https://github.com/Oneplus-Nord5-development/android_device_oneplus_sm8650-common)  
-- [device/oneplus/lexus](https://github.com/Oneplus-Nord5-development/android_device_oneplus_lexus)
-
-### **Kernel**
-- [kernel/oneplus/sm8650](https://github.com/Oneplus-Nord5-development/android_kernel_oneplus_sm8650)  
-- [kernel device trees](https://github.com/Oneplus-Nord5-development/android_kernel_oneplus_sm8650-devicetrees)  
-- [kernel modules](https://github.com/Oneplus-Nord5-development/android_kernel_oneplus_sm8650-modules)
-
-### **Vendor**
-- [vendor/oneplus/sm8650-common](https://github.com/Oneplus-Nord5-development/android_vendor_oneplus_sm8650-common)  
-- [vendor/oneplus/lexus](https://github.com/Oneplus-Nord5-development/android_vendor_oneplus_lexus)
-
-### **Hardware**
-- [hardware/oplus](https://github.com/Oneplus-Nord5-development/android_hardware_oplus)
-
+## Sync Sources
+- [local_manifests](https://github.com/Oneplus-Nord5-development/local_manifests)
 ---
 
 ## Status (Tree Stability Status)
@@ -49,11 +33,6 @@
 | Greenline | ❌ ^_^ |
 
 **Last Updated:** **16 November 2025**
-
----
-### **Local Manifest**
-- [local_manifests](https://github.com/Oneplus-Nord5-development/local_manifests)
----
 
 ## Credits
 
