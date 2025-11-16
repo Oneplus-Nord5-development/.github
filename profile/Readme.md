@@ -35,8 +35,6 @@
 | Ultrawide Camera | ✅ Working |
 | Double Tap to Wake | ✅ Working |
 | Double Tap to Sleep | ✅ Working |
-| Fingerprint | ❌ Not Working |
-| Battery Stats/Percentage | ❌ Not Working (only on oss kernel) |
 | Flashlight | ✅ Working |
 | GPS | ✅ Working |
 | Hotspot | ✅ Working |
@@ -48,6 +46,8 @@
 | Wi-Fi | ✅ Working |
 | Calling | ✅ Working |
 | Screen Recording | ✅ Working |
+| Fingerprint | ❌ Not Working |
+| Greenline | ❌ ^_^ |
 
 **Last Updated:** **16 November 2025**
 
@@ -59,9 +59,9 @@
 ## Credits
 
 - **LineageOS team**  
-- **chandu078** – for work on OnePlus Pineapple platform  
-- **Luk1337, Cyberknight777, Maitreya25, inferno0209, pjgowtham** – guidance/help  
-- **LXD_PRINCE, kknix, kratos_1704** – testing  
+- **chandu078** for his work on OnePlus Pineapple platform
+- **Luk1337, Cyberknight777, Maitreya25, inferno0209, pjgowtham** for guidance/help  
+- **LXD_PRINCE, kknix, kratos_1704** for testing
 - **and everyone else who contributed but I forgot to mention here**
 
 ---
