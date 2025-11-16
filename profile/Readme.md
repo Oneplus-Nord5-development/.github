@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 Status (ROM/Tree Status)
+## Status (Tree Stability Status)
 
 | Feature | Status |
 |--------|--------|
