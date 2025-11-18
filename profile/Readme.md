@@ -29,7 +29,7 @@
 | Wi-Fi | ✅ Working |
 | Calling | ✅ Working |
 | Screen Recording | ✅ Working |
-| Fingerprint | ❌ Not Working |
+| Fingerprint | ✅ Working |
 | Greenline | ❌ ^_^ |
 
 **Last Updated:** **16 November 2025**
