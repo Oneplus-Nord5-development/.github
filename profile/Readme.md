@@ -38,8 +38,8 @@
 
 - **LineageOS team**  
 - **chandu078** for his work on OnePlus Pineapple platform
-- **Luk1337, Cyberknight777, Maitreya25, inferno0230, pjgowtham** for guidance/help  
-- **LXD_PRINCE, kknix, kratos_1704** for testing
+- **Luk1337, Cyberknight777, Maitreya25, inferno0230 and pjgowtham** for guidance/help  
+- **LXD_PRINCE, kknix and kratos_1704** for testing
 - **and everyone else who contributed but I forgot to mention here**
 
 ---
